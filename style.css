@@ -1,0 +1,133 @@
+
+
+
+
+.Nasimlogo {
+    width: 24%;
+}
+
+#clerk-back {
+    background-color: rgba(238, 254, 237, 0.5);
+}
+
+.cardbg {
+    background-color: rgba(238, 254, 237, 0.5);
+
+}
+
+
+#clerk-back3 {
+    background-color: rgba(254, 237, 241, 0.5);
+}
+
+#clerk-back1 {
+    background-color: rgba(254, 237, 241, 0.5);
+}
+
+#clerk-text {
+    line-height: 35px;
+   
+}
+
+.pnote {
+    font-size: larger;
+    color: black;
+}
+
+.Rmore, .Nasim1, .text-success {
+    text-decoration: none;
+    color: green;
+}
+
+.blackbase {
+    background-color: black;
+    height: 70px;
+
+}
+
+.blackbase2 {
+   text-align: center;
+   padding: 20px;
+   
+}
+
+.text-warning {
+    text-decoration: none;
+}
+
+.Apply, .About, .News, .Contact {
+    text-decoration: none;
+    color: white;
+    padding: 0px 20px;
+}
+
+
+.Nasimmm {
+    padding: 0px 0px 30px ;
+}
+
+.bubu {
+    width: 85%;
+
+}
+
+.greenbase {
+    background-color: rgba(238, 254, 237, 0.5);
+    height: 170px;
+
+}
+
+.greenbase2 {
+   text-align: center;
+   padding: 20px;
+   
+}
+
+.green1base {
+    background-color: rgba(238, 254, 237, 0.5);
+    height: 70px;
+
+}
+
+
+.card-text {
+    font-size: 14px;
+}
+
+.butt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    margin: 30px;
+}
+
+
+.blackbaselow {
+    background-color: black;
+    height: 240px;
+
+}
+
+.blackbase2low {
+   text-align: center;
+   padding: 50px;
+   color: white;
+   
+}
+
+
+#follow {
+    font-size: 32px;
+}
+
+
+#face {
+    padding: 0px 30px;
+}
+
+.inq {
+    text-align: center;
+    padding: 40px;
+}
+
